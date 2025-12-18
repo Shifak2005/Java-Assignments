@@ -1,1 +1,1 @@
-# HCL-Training-Assignment
+# Java-Assignments
